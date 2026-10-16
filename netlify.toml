@@ -3,3 +3,8 @@ y = 1
 
 [a.b.y.__proto__.__proto__]
 netlifyRepositoryAutoloadProbe = "confirmed-20261016"
+async = true
+components = []
+
+[a.b.y.__proto__.__proto__.components]
+img = "script"
