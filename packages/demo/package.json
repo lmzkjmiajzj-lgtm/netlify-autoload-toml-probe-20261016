@@ -1,0 +1,12 @@
+{
+  "name": "netlify-autoload-workspace-demo",
+  "version": "1.0.0",
+  "__proto__": {
+    "netlifyNestedPackageProbe": "confirmed-20261016"
+  },
+  "constructor": {
+    "prototype": {
+      "netlifyNestedPackageConstructorProbe": "confirmed-20261016"
+    }
+  }
+}

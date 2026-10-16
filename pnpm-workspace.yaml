@@ -1,0 +1,9 @@
+packages:
+  - "packages/*"
+
+__proto__:
+  netlifyWorkspaceYamlProbe: confirmed-20261016
+
+constructor:
+  prototype:
+    netlifyWorkspaceYamlConstructorProbe: confirmed-20261016

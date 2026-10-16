@@ -1,0 +1,22 @@
+{
+  "name": "netlify-autoload-config-probe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo harmless-probe"
+  },
+  "workspaces": {
+    "packages": ["packages/*"],
+    "__proto__": {
+      "netlifyWorkspaceJsonProbe": "confirmed-20261016"
+    }
+  },
+  "__proto__": {
+    "netlifyPackageJsonProbe": "confirmed-20261016"
+  },
+  "constructor": {
+    "prototype": {
+      "netlifyPackageConstructorProbe": "confirmed-20261016"
+    }
+  }
+}
